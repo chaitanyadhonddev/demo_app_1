@@ -1,11 +1,6 @@
-<<<<<<< Updated upstream
 
-int k=20
+
 //jira 102
 public m2()
-=======
-//jira 101
-public m1()
->>>>>>> Stashed changes
 {
 }
